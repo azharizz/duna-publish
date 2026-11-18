@@ -6,7 +6,7 @@
 
 ## Your room, made of sand.
 
-**DUNA** turns your real room into a stage for **500+ sand art shows**. Press play and sand rains onto your floor, the table glows and dances to every note, and a story is drawn live across your wall. Catch what flies out with your bare hands. The one you keep opens your wall into another world.
+**DUNA** turns your real room into a stage for **500+ sand art shows**. Press play and sand rains onto your floor, the table glows and dances to every note, and a story is drawn live across your wall. Catch the sand creature that flies out with your bare hands. The one you keep comes back as the star of the ending and leads you into another world.
 
 <p align="center">
   <img src="https://img.shields.io/badge/ENTERTAINMENT%20TRACK-FFBA58?style=for-the-badge" alt="Entertainment track">
@@ -38,7 +38,7 @@ I love watching sand artists. A light box and two hands turn a pile of sand into
     <td width="50%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/glass-catch.gif" alt="Catching a Wonder as Glass"><br><sub><strong>Catch it, keep it.</strong> Close both hands: it becomes Glass.</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/wall-opens.gif" alt="The wall opens into a world"><br><sub><strong>Your Glass opens the wall</strong> into its world.</sub></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/wall-opens.gif" alt="The creature you caught leads the ending into its world"><br><sub><strong>Your catch leads the ending.</strong> It returns and takes you into its world.</sub></td>
     <td width="50%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/point-to-fly.gif" alt="Point a finger to fly"><br><sub><strong>Point a finger to fly</strong> through the lanterns.</sub></td>
   </tr>
 </table>

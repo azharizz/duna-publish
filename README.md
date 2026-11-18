@@ -5,7 +5,7 @@
 <div align="center">
   <h1>DUNA</h1>
   <p><strong>Your room, made of sand.</strong></p>
-  <p><em>500+ sand art shows that pour into your real room, dance to the music, and let your bare hands catch the magic.<br>The one you keep opens your wall into another world.</em></p>
+  <p><em>500+ sand art shows that pour into your real room, dance to the music, and let your bare hands catch the magic.<br>The creature you catch becomes the star of your ending.</em></p>
   <p>
     <a href="submission-description.md"><img src="https://img.shields.io/badge/SUBMISSION%20DESCRIPTION-FFBA58?style=for-the-badge" alt="Read the submission description"></a>
     <a href="https://start-developer-competition-26.devpost.com/"><img src="https://img.shields.io/badge/META%20VR%20START%20COMPETITION%202026-1E140D?style=for-the-badge&logo=meta&logoColor=white" alt="Meta VR Start Developer Competition 2026"></a>
@@ -29,7 +29,7 @@
 
 ## What it is
 
-Press play on the glowing **Light Box** and sand rains into your real room. The board turns into a cymatics plate that dances to every note, a 3D sand floor ripples with the beat, and a sand artist draws the story live across your real wall. A creature flies out of the picture: catch it with both hands and keep it as **Glass**. The Glass you keep leads the ending, when your wall turns to sand, breaks open, and you point a finger to fly into its world.
+Press play on the glowing **Light Box** and sand rains into your real room. The board turns into a cymatics plate that dances to every note, a 3D sand floor ripples with the beat, and a sand artist draws the story live across your real wall. A creature flies out of the picture: catch it with both hands and keep it as **Glass**. The creature you keep comes back as the star of the ending: your wall turns to sand and breaks open, and it leads you into its world, where you point a finger to fly.
 
 <p align="center"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/duna-show-loop.gif" alt="One show, start to finish" width="80%"></p>
 
@@ -42,7 +42,7 @@ Press play on the glowing **Light Box** and sand rains into your real room. The 
   <tr>
     <td width="33%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/wall-drawing.gif" alt="Drawn on the wall"><br><sub><strong>Drawn live on your wall</strong></sub></td>
     <td width="33%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/glass-catch.gif" alt="Catch and keep as Glass"><br><sub><strong>Catch it, keep it as Glass</strong></sub></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/wall-opens.gif" alt="The wall opens"><br><sub><strong>Your Glass opens the wall</strong></sub></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/wall-opens.gif" alt="Your catch leads the ending"><br><sub><strong>Your catch leads the ending</strong></sub></td>
   </tr>
   <tr>
     <td width="33%"><img src="https://raw.githubusercontent.com/azharizz/duna-publish/main/assets/point-to-fly.gif" alt="Point to fly"><br><sub><strong>Point a finger to fly</strong></sub></td>
